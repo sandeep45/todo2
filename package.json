@@ -28,7 +28,7 @@
     "babel-preset-stage-1": "^6.5.0",
     "expose-loader": "^0.7.1",
     "flux": "^2.1.1",
-    "html-webpack-plugin": "^2.7.2",
+    "html-webpack-plugin": "https://github.com/sandeep45/html-webpack-plugin.git",
     "keymirror": "^0.1.1",
     "react": "^0.14.6",
     "react-dom": "^0.14.6",
