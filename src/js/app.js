@@ -4,6 +4,7 @@ require("jquery");
 require("bootstrap/dist/css/bootstrap.css");
 require("bootstrap/dist/css/bootstrap-theme.css");
 require("bootstrap");
+require("../css/main.css");
 
 var React = require("react");
 var ReactDOM = require("react-dom");
